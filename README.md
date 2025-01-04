@@ -27,7 +27,7 @@ Este proyecto es una aplicación web construida con React que permite a los usua
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/react-video-management.git
+   git clone https://github.com/tu-usuario/nombre-del-proyecto.git
    ```
 
 2. Accede al directorio del proyecto:
