@@ -1,4 +1,4 @@
-###Aluraflix
+#Aluraflix
 
 Este proyecto es una aplicación web construida con React que permite a los usuarios gestionar videos de manera sencilla. La aplicación incluye funcionalidades para subir, editar y eliminar videos, además de visualizar información sobre equipos relacionados.
 
